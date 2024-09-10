@@ -3,7 +3,7 @@
 
 ## About me
 
-<p> Nazywam się Malina Micek. Od ponad trzech lat pracuję jako Administrator Danych w Allegro. Od kilku miesięcy zaczęłam interesować się testowaniem oprogramowania i poczułam, że to może być moja droga. <br> 
+<p> Nazywam się Malina Micek. Od ponad trzech lat pracuję jako Administrator Danych. Od kilku miesięcy zaczęłam interesować się testowaniem oprogramowania i poczułam, że to może być moja droga. <br> 
 Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu testowania, oraz rozwój umiejętności z zakresu języka SQL. <br> Na tej stronie chciałabym podzielić się wynikiami mojej samodzielnej nauki. </p>
 
 ## Tools
