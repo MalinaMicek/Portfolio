@@ -38,5 +38,5 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 * https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing
 
 ## My bug reports
-
+* https://jira.external-share.com/issue/261256/malina_micek_raporty_z_błędów
 
