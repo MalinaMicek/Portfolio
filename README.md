@@ -32,9 +32,8 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 * Tester oprogramowania - wsparcie na starcie
 * Testuj, Dziewczyno!
 
-## Przykład scenariusza testowego
-
-* https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf
+##  [Przykład scenariusza testowego](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf
+)
 
 ## Przykłady przypadków testowych
 
