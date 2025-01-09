@@ -34,7 +34,7 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 
 ## Przykład scenariusza testowego
 
-* https://docs.google.com/document/d/1hMxow0URni6o-3u6qiglwXJNCJj3h5Al8l6VzBNzlCc/edit?usp=sharing
+* [https://docs.google.com/document/d/1hMxow0URni6o-3u6qiglwXJNCJj3h5Al8l6VzBNzlCc/edit?usp=sharing](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf)
 
 ## Przykłady przypadków testowych
 
