@@ -32,10 +32,13 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 * Tester oprogramowania - wsparcie na starcie
 * Testuj, Dziewczyno!
 
+## Przykład scenariusza testowego
+
+* https://docs.google.com/document/d/1hMxow0URni6o-3u6qiglwXJNCJj3h5Al8l6VzBNzlCc/edit?usp=sharing
+
 ## Przykłady przypadków testowych
 
 * https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing
 
 ## Raporty z błędów
 * https://jira.external-share.com/issue/261256/malina_micek_raporty_z_błędów
-
