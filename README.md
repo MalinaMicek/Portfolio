@@ -33,7 +33,7 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 * Testuj, Dziewczyno!
 
 ##  Przykład scenariusza testowego
-[SCENARIUSZ TESTOWY NR 1](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf)
+[Scenariusz testowy nr 1](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf)
 
 ## Przykłady przypadków testowych
 [Przykłady przypadków testowych w środowisku testowym: https://www.empik.com/](https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing)
