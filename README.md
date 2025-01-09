@@ -32,8 +32,11 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 * Tester oprogramowania - wsparcie na starcie
 * Testuj, Dziewczyno!
 
-##  [Przykład scenariusza testowego](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf)
+##  Przykład scenariusza testowego
+[SCENARIUSZ TESTOWY NR 1](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf)
 
-## [Przykłady przypadków testowych](https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing)
+## Przykłady przypadków testowych
+[Przykłady przypadków testowych w środowisku testowym: https://www.empik.com/](https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing)
 
-## [Raporty z błędów](https://jira.external-share.com/issue/261256/malina_micek_raporty_z_błędów)
+## Raporty z błędów
+[Raporty z błędów - Jira](https://jira.external-share.com/issue/261256/malina_micek_raporty_z_błędów)
