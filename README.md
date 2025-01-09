@@ -34,9 +34,7 @@ Moim aktualnym celem jest rozwój wiedzy i umiejętności technicznych z zakresu
 
 ##  [Przykład scenariusza testowego](https://github.com/MalinaMicek/Portfolio/blob/main/SCENARIUSZ%20TESTOWY.pdf)
 
-## Przykłady przypadków testowych
-
-* https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing
+## [Przykłady przypadków testowych](https://docs.google.com/spreadsheets/d/1QK7TdPynHixpun8uoEd1MdixaIGsnPKrYx-mQmqUivE/edit?usp=sharing)
 
 ## Raporty z błędów
 * https://jira.external-share.com/issue/261256/malina_micek_raporty_z_błędów
